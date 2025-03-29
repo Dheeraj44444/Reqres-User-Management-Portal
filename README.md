@@ -1,12 +1,13 @@
 # Reqres User Management Portal
 
-![React](https://img.shields.io/badge/React-18.2.0-blue)
-![React Router](https://img.shields.io/badge/React_Router-6.20.0-red)
-![Axios](https://img.shields.io/badge/Axios-1.6.2-green)
-
 A complete user management application built with React that integrates with the Reqres API. This project demonstrates authentication, user management, and CRUD operations within a responsive user interface.
 
-![App Screenshot](/api/placeholder/800/400)
+![Login-page](https://github.com/user-attachments/assets/7ca95492-28d0-4abe-8c7a-b2a9dba6ac6b)
+![List-all-users-page](https://github.com/user-attachments/assets/df7534e8-2c62-4e16-b1c5-3daf04c017d0)
+![Edit-page](https://github.com/user-attachments/assets/09b8f063-7956-477a-b723-b6e61ac33604)
+![Delete](https://github.com/user-attachments/assets/76d5c34d-d1e2-4fd7-aa3d-2640cddfda3b)
+![Delete-message](https://github.com/user-attachments/assets/b11b8c87-8806-4295-a6dc-dc0b4ea3075c)
+
 
 ## 🚀 Features
 
@@ -97,22 +98,3 @@ The application is fully responsive and optimized for:
 - Desktop (1024px and above)
 - Tablet (768px - 1023px)
 - Mobile (below 768px)
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgements
-
-- [Reqres API](https://reqres.in/) for providing a testing backend
-- [React](https://reactjs.org/) for the excellent frontend library
-- [React Router](https://reactrouter.com/) for navigation
-- [Axios](https://axios-http.com/) for simplified HTTP requests
