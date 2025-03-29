@@ -38,8 +38,7 @@ A complete user management application built with React that integrates with the
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/reqres-user-management.git
-   cd reqres-user-management
+   git clone https://github.com/Dheeraj44444/Reqres-User-Management-Portal.git
    ```
 
 2. **Install dependencies**
